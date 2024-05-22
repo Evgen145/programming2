@@ -1,0 +1,1664 @@
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
+Skip to main content
+Home
+My Courses
+Course Catalog
+Help 
+Saylor Academy
+CS107: C++ Programming
+Sections
+Course Introduction
+Course Syllabus
+Unit 1: Introduction and Setup
+Unit 2: Structuring Program Code
+Unit 3: Working with Simple Data Structures
+Unit 4: Object-Oriented Programming
+Unit 5: Advanced Concepts
+Study Guide
+Course Feedback Survey
+Certificate Final Exam
+Resources
+Activities
+Home
+My programs
+My certificates
+CS107: C++ Programming
+ 
+Home
+Courses
+Course Catalog
+Computer Science
+CS107: C++ Programming
+Learn new skills or earn credit towards a degree at your own pace with no deadlines, using free courses from Saylor Academy. Join the 1,926,740 students that started their journey with us. We're committed to removing barriers to education and helping you build essential skills to advance your career goals. Start learning here, or check out our full course catalog.
+
+Log in or Sign up to enroll in courses, track your progress, gain access to final exams, and get a free certificate of completion!
+
+Course Introduction
+ Time: 40 hours
+ Free Certificate
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and the string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees.
+Course Syllabus
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction and Setup
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++ using the Eclipse IDE (integrated development environment). We will focus on how to write and format a general C++ program, the meaning of the main() function, how to use the cout and cin objects, how to declare and use variables, and how to use arithmetic operators.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 2: Structuring Program Code
+This unit focuses on implementing simple control structures. First, we will learn how to use conditional and iteration structures to make decisions and to repeat code. We will then discuss how to use debugging tools to test and troubleshoot these structures. We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. We will also discus scope, as well as passing variables by value and by reference. Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 3: Working with Simple Data Structures
+Data structures are just ways to store multiple data values. Arrays, structs, enumerations, unions, queues, lists, and vectors are a few examples of data structures. In this unit, we will focus on a few simple structures. The array is one of the most basic structures used in computer programming. Arrays store data contiguously by representing data with a common name and distinguishing it by its index. This is like a parking garage: the garage stores vehicles; all of the parking spaces have a common name (the name of the garage); and each parked vehicle is identified by a specific parking space number. This is also true of arrays. Think of arrays as parking garages for our data. After exploring arrays, we then learn structs, unions, and enumerations, which are special ways to group more complex data types.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 4: Object-Oriented Programming
+In this unit, you will learn how to design a class, which is an expanded concept of a data structure that can hold both data and functions. An object is an instantiation of a class, so a class would be the type, and an object would be the variable. Next, we will learn how to handle private and protected members of a class, which is important for sound class design. This unit covers a key feature of C++ classes: inheritance. Inheritance allows classes to inherit objects and functions from other classes. In this unit, we will learn how classes can inherit members from more than one class. We will end this unit with the study of polymorphism or the ability to create a variable, a function, or an object that has more than one form. This brings object-oriented methodologies to their full potential.
+
+Completing this unit should take you approximately 8 hours.
+
+Unit 5: Advanced Concepts
+In this unit, we will first explore the concept of generic programming, and how you can harness the power of templates to make classes and functions more reusable and adaptable to your personal needs. Then, we will explore ways to add content to our program by reading from files and then storing the data by writing to output files. Finally, we will explore the use of exceptions in C++. Exceptions allow us to anticipate problems that might occur in code and handle this problems through the use of exceptions, telling the program specifically how it is to behave when these problems occur.
+
+Completing this unit should take you approximately 8 hours.
+
+Study Guide
+This study guide will help you get ready for the final exam. It discusses the key topics in each unit, walks through the learning outcomes, and lists important vocabulary. It is not meant to replace the course materials!
+
+CS107 Study GuideBook
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS107: Certificate Final ExamQuiz
+Receive a grade Receive a pass grade
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy and Terms of Service
+Continue
+x
